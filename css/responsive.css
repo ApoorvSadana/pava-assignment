@@ -98,6 +98,11 @@
 	.banner-text {padding-top: 0;}
 	.banner-text > a {padding: 0 50px;height: 60px;line-height: 60px;}
 	.banner-text p {margin-bottom: 40px;}
+	.features-sec {margin-top: 70px;}
+	.responsive-mobile-menu {position: fixed;height: 100vh;}
+	.logo {margin-left: -25px;}
+	.price {margin-bottom: 19px;}
+	.user-info.slick-slide.slick-current.slick-active.slick-center img {width: 65px;}
 }
 
 
@@ -134,4 +139,5 @@
 	.banner-text > a {font-size: 18px;}
 	.news {padding: 60px 0;}
 	.banner-text p {padding: 0 20px;}
+	.banner-text {padding-left: 0;}
 }
